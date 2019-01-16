@@ -1,7 +1,7 @@
 *.pyc
 *.db
 *.swp
-*.json
+data.json
 
 attendances.*
 sync_flag.*
